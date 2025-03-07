@@ -3,8 +3,6 @@
 # --- Configuration ---
 # List of formulae (command-line tools) to install, in alphabetical order
 declare -a formulae=(
-  docker
-  docker-compose
   git
   python
   terraform
@@ -15,7 +13,6 @@ declare -a casks=(
   appcleaner
   boop
   dash
-  docker
   gifox
   github
   iina
@@ -25,7 +22,6 @@ declare -a casks=(
   keka
   maintenance
   monitorcontrol
-  parallels
   rectangle
   stats
   visual-studio-code

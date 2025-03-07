@@ -10,19 +10,18 @@ declare -a formulae=(
 
 # List of casks to uninstall, in alphabetical order
 declare -a casks=(
+  alfred
   appcleaner
   boop
-  dash
+  dockdoor
   gifox
   github
   iina
   iterm2
-  jordanbaird-ice
-  keepingyouawake
   keka
-  maintenance
+  keepingyouawake
   monitorcontrol
-  parallels
+  onyx
   rectangle
   stats
   visual-studio-code

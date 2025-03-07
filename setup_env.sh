@@ -10,18 +10,18 @@ declare -a formulae=(
 
 # List of casks (GUI applications) to install, in alphabetical order
 declare -a casks=(
+  alfred
   appcleaner
   boop
-  dash
+  dockdoor
   gifox
   github
   iina
   iterm2
-  jordanbaird-ice
-  keepingyouawake
   keka
-  maintenance
+  keepingyouawake
   monitorcontrol
+  onyx
   rectangle
   stats
   visual-studio-code

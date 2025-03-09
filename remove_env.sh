@@ -3,6 +3,7 @@
 # --- Configuration ---
 # List of formulae to uninstall, in alphabetical order
 declare -a formulae=(
+  docker
   git
   python
   terraform

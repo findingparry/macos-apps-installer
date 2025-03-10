@@ -3,7 +3,6 @@
 # --- Configuration ---
 # List of formulae to uninstall, in alphabetical order
 declare -a formulae=(
-  docker
   git
   python
   terraform
@@ -11,7 +10,6 @@ declare -a formulae=(
 
 # List of casks to uninstall, in alphabetical order
 declare -a casks=(
-  alt-tab
   appcleaner
   boop
   docker
@@ -26,9 +24,7 @@ declare -a casks=(
   postman
   rectangle
   stats
-  virtualbox
   visual-studio-code
-  yubico-yubikey-manager
   zen-browser
 )
 

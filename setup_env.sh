@@ -3,7 +3,6 @@
 # --- Configuration ---
 # List of formulae (command-line tools) to install, in alphabetical order
 declare -a formulae=(
-  docker
   git
   python
   terraform

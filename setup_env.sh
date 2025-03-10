@@ -10,7 +10,6 @@ declare -a formulae=(
 
 # List of casks (GUI applications) to install, in alphabetical order
 declare -a casks=(
-  alt-tab
   appcleaner
   boop
   docker
@@ -25,9 +24,7 @@ declare -a casks=(
   postman
   rectangle
   stats
-  virtualbox
   visual-studio-code
-  yubico-yubikey-manager
   zen-browser
 )
 

@@ -21,7 +21,6 @@ declare -a casks=(
   iina
   keka
   keepingyouawake
-  logi-options+
   monitorcontrol
   onyx
   postman
@@ -29,7 +28,8 @@ declare -a casks=(
   stats
   virtualbox
   visual-studio-code
-  windows-app
+  yubico-yubikey-manager
+  zen-browser
 )
 
 # --- Global Variables ---
